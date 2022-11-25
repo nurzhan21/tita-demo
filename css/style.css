@@ -85,7 +85,13 @@ a {
   border-radius: 8px;
   padding: 16px 100px 16px 56px;
   margin-right: 8px;
-  background: url(/img/search.svg) 23px 15px no-repeat;
+  background: 
+    
+    
+    
+    
+    
+    img/search.svg) 23px 15px no-repeat;
   background-color: #f3f5f6;
 }
 .button-search {
@@ -115,7 +121,7 @@ a {
   font-weight: 700;
   border: none;
   border-radius: 8px;
-  background: url(/img/cart.svg) 100px 11px no-repeat;
+  background: url(img/cart.svg) 100px 11px no-repeat;
   background-color: #f3823f;
   padding: 14px 58px 14px 24px;
 }
@@ -134,7 +140,7 @@ a {
   font-weight: 700;
   border: none;
   border-radius: 8px;
-  background: url(/img/catalog.svg) 100px 15px no-repeat;
+  background: url(img/catalog.svg) 100px 15px no-repeat;
   background-color: #f3823f;
   padding: 14px 58px 14px 24px;
 }
@@ -289,7 +295,7 @@ a {
   font-weight: 700;
   border: none;
   border-radius: 8px;
-  background: url(/img/cart.svg) 100px 11px no-repeat;
+  background: url(img/cart.svg) 100px 11px no-repeat;
   background-color: #f3823f;
   padding: 13px 44px 13px 16px;
 }
@@ -305,14 +311,14 @@ a {
   display: block;
   width: 13px;
   height: 13px;
-  background: url(/img/plus.svg) center no-repeat;
+  background: url(img/plus.svg) center no-repeat;
 }
 .promo-block-calc__minus {
   margin-left: 10px;
   display: block;
   width: 13px;
   height: 13px;
-  background: url(/img/minus.svg) center no-repeat;
+  background: url(img/minus.svg) center no-repeat;
 }
 .commercial-second {
   padding-top: 60px;
@@ -335,7 +341,7 @@ a {
   display: block;
   width: 38px;
   height: 38px;
-  background: url(/img/select-btn.svg) center no-repeat;
+  background: url(img/select-btn.svg) center no-repeat;
   border: none;
 }
 .new {
@@ -423,7 +429,7 @@ a {
   font-weight: 700;
   border: none;
   border-radius: 8px;
-  background: url(/img/cart.svg) 100px 11px no-repeat;
+  background: url(img/cart.svg) 100px 11px no-repeat;
   background-color: #f3823f;
   padding: 13px 44px 13px 16px;
 }
@@ -439,14 +445,14 @@ a {
   display: block;
   width: 13px;
   height: 13px;
-  background: url(/img/plus.svg) center no-repeat;
+  background: url(img/plus.svg) center no-repeat;
 }
 .new-block-calc__minus {
   margin-left: 10px;
   display: block;
   width: 13px;
   height: 13px;
-  background: url(/img/minus.svg) center no-repeat;
+  background: url(img/minus.svg) center no-repeat;
 }
 .commercial-second {
   padding-top: 60px;
