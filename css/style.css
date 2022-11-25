@@ -85,13 +85,7 @@ a {
   border-radius: 8px;
   padding: 16px 100px 16px 56px;
   margin-right: 8px;
-  background: 
-    
-    
-    
-    
-    
-    img/search.svg) 23px 15px no-repeat;
+  background: url(img/search.svg) 23px 15px no-repeat;
   background-color: #f3f5f6;
 }
 .button-search {
